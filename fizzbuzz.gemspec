@@ -9,10 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Yuki Minamiya"]
   spec.email         = ["y.minamiya@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-  spec.license       = "MIT"
+  spec.summary       = %q{Fizz Buzzを出力するGemです。}
+  spec.description   = %q{Fizz Buzzを出力するGemです。このGemはWEB+DB PRESSの記事のサンプルとして作られました。}
+  spec.homepage      = "https://github.com/yuki3738/fizzbuzz"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
